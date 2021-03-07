@@ -4,7 +4,7 @@ set more off // removes pauses or more message. This is only relevant with Stata
 *setting a working directory
 cd "C:\Users\Pc\Desktop\DAITS\Module 3"
 
-*loading dataset
+*loading our training dataset
 use "hsb2_mar.dta", clear
 
 * Describing our dataset
