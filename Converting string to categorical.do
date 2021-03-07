@@ -1,5 +1,5 @@
-clear
-set more off
+clear // clears all data that is currently in Stata memory
+set more off // removes pauses or more message. This is only relevant with Stata versions 15 and lower
 
 *setting a working directory
 cd "C:\Users\Pc\Desktop\DAITS\Module 3"
